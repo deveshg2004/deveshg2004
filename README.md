@@ -30,6 +30,7 @@ Currently pursuing **B.Tech in Computer Science and Engineering (AIML)** at **GI
 
 ### 🏢 Nokia Solutions and Networks India Pvt. Ltd.  
 **Intern – Software Development & Automation (May 2025 – Jul 2025)**  
+📍 *Gurugram, Haryana (On-site)*  
 
 - Developed RESTful APIs in Python and built frontend web pages using HTML, CSS, and JavaScript to visualize API responses.  
 - Performed API testing and validation using Postman and SoapUI, ensuring accuracy and standards compliance.  
@@ -37,6 +38,7 @@ Currently pursuing **B.Tech in Computer Science and Engineering (AIML)** at **GI
 - Built Python scripts to automate workflows and simulate real-time error-handling scenarios.  
 - Documented APIs with Swagger/Postman, used Git for version control, and supported CI/CD integration.  
 - Collaborated in Agile environment, gaining hands-on exposure to SDLC, problem-solving, and cross-functional teamwork.  
+
 
 ---
 
@@ -58,4 +60,5 @@ Currently pursuing **B.Tech in Computer Science and Engineering (AIML)** at **GI
 [![HackerRank](https://img.shields.io/badge/HackerRank-deveshgogia22-brightgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/deveshgogia22)  
 
 ---
+
 
