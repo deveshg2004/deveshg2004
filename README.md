@@ -54,11 +54,12 @@ Currently pursuing **B.Tech in Computer Science and Engineering (AIML)** at **GI
 
 ## 📫 Let's Connect  
 
-📧 **Email:** [deveshgogia22@gmail.com](mailto:deveshgogia22@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh%20Gogia-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devesh-gogia-47a655375/)  
 [![GitHub](https://img.shields.io/badge/GitHub-deveshg2004-black?style=flat-square&logo=github)](https://github.com/deveshg2004)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-deveshgogia22-brightgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/deveshgogia22)  
-
+📧 **Email:** [deveshgogia22@gmail.com](mailto:deveshgogia22@gmail.com)
 ---
+
 
 
