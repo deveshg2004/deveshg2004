@@ -1,40 +1,46 @@
-# 👋 Hi, I'm Devesh Gogia
+# 👋 <h1 align="center">Hi 👋, I'm Devesh Gogia</h1>
 
-🎯 **Computer Science (AIML) Graduate | Department Rank 1 | AI & Software Development Enthusiast**
+<h3 align="center">
+Computer Science Engineer | Data Analytics | AI & Machine Learning
+</h3>
 
-Welcome to my GitHub! I'm passionate about building AI-powered applications and software solutions that solve real-world problems. I enjoy working with Python, APIs, machine learning, and automation while continuously exploring new technologies.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science and Engineering (AIML) from GITAM University.
-- 🏆 Graduated with **Department Rank 1** and a **CGPA of 9.65/10**.
-- 💻 Interested in Software Development, Artificial Intelligence, API Integration, and Automation.
-- 🤝 Enjoy collaborating in Agile teams and building practical, scalable solutions.
-- 🌱 Always eager to learn, experiment, and improve through hands-on projects.
+<p align="center">
+Recent B.Tech graduate in Computer Science and Engineering (AI & ML) with Department Rank 1 (CGPA: 9.65/10). Passionate about Data Analytics, Machine Learning, Business Intelligence, and solving real-world problems through data-driven solutions.
+</p>
 
 ---
 
-## 🛠 Technical Skills
+## 👨‍💻 About Me
 
-### Languages
+- 🎓 B.Tech in Computer Science and Engineering (AI & ML)
+- 🏆 Department Rank 1 | CGPA: 9.65/10
+- 💼 Former Software Development & Automation Intern at Nokia
+- 📊 Interested in Data Analytics, Business Intelligence, and Machine Learning
+- 💡 Passionate about transforming data into meaningful business insights
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 - Python
-- C
 - SQL
 - R
+- C
+
+### Data Analytics
+- Microsoft Excel
+- Google Sheets
+- Power BI
+- Pandas
+- NumPy
 
 ### Databases
 - MySQL
 - PostgreSQL
 - Oracle
 
-### AI & Productivity
-- Generative AI
-- Prompt Engineering
-- AI-Assisted Research
-
-### Tools & Platforms
+### Tools
 - Git
 - GitHub
 - VS Code
@@ -42,51 +48,61 @@ Welcome to my GitHub! I'm passionate about building AI-powered applications and 
 - Postman
 - SoapUI
 
-### Business & Analytics
-- Microsoft Excel
-- Power BI
+### Concepts
+- Data Analysis
+- Data Cleaning
 - Data Visualization
+- Business Intelligence
+- Statistical Analysis
 - KPI Analysis
+- Machine Learning
 
 ---
 
-## 💼 Experience
+## 🚀 Projects
 
-### Nokia Solutions and Networks India Pvt. Ltd.
-**Intern – Software Development & Automation**
-📍 Gurugram, Haryana | **May 2025 – June 2025**
-
-- Analyzed API performance and testing outcomes to identify issues and improve system reliability.
-- Conducted API validation and quality assurance using Postman and SoapUI.
-- Automated repetitive workflows using Python to improve operational efficiency.
-- Collaborated with cross-functional teams in an Agile environment.
-- Developed technical documentation and presented findings through structured reports.
+### 📈 Customer Churn Prediction
+- Analyzed customer data using Python to identify key factors influencing customer churn.
+- Generated business insights to support customer retention strategies.
 
 ---
 
-## 👥 Leadership
+### 💰 Financial Performance Analysis
+- Analyzed financial datasets using SQL, Python, Excel, and Power BI.
+- Built dashboards to visualize KPIs and business performance.
 
-### Team Lead – Bias Detection in Hiring Descriptions and Resumes Using Machine Learning
-- Led a team in developing an ML-based solution to identify biased language in job descriptions and resumes.
-- Coordinated project planning, task allocation, and team collaboration throughout the project lifecycle.
+---
 
-### Team Lead – SQL-Powered Shopping Management System
-- Led the development of a shopping management system using SQL.
-- Managed timelines and coordinated project execution.
+### 🏥 Healthcare Data Analysis
+- Analyzed healthcare datasets using R.
+- Performed exploratory data analysis and visualization to identify healthcare trends.
 
-### Team Lead – Healthcare Data Analysis
-- Guided a team in analyzing healthcare datasets using R to identify patterns and insights.
+---
+
+### 🤖 AI-Powered Quiz Generator
+- Built a Flask web application using the Gemini API.
+- Generated dynamic quizzes with real-time score evaluation.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Achieved the **Highest CGPA of 9.65/10** and secured **Department Rank 1** in the B.Tech CSE (AIML) department.
-- ⭐ Achieved the **Highest SGPA of 9.8/10** in the 3rd semester in the CSE (AIML) department.
-- 🎓 **Course Top Performer** in the NPTEL course on **Software Testin**g conducted by **IIT Kharagpur**.
-
+- 🥇 Department Rank 1 in B.Tech CSE (AI & ML)
+- 🎓 CGPA: 9.65/10
+- ⭐ 4-Star SQL Badge on HackerRank
+- 🏅 Course Top Performer – NPTEL Software Testing (IIT Kharagpur)
 
 ---
+
+## 📜 Certifications
+
+- Microsoft Power BI Desktop for Business Intelligence
+- Python Data Structures
+- Google Cloud – Introduction to Large Language Models
+- AWS – Introduction to Machine Learning
+- Machine Learning A-Z
+- Software Testing – IIT Kharagpur
+ 
 
 ## 📫 Connect with Me
 
