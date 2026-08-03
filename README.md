@@ -1,4 +1,4 @@
-# 👋 <h1 align="center">Hi 👋, I'm Devesh Gogia</h1>
+# <h1 align="center">Hi 👋, I'm Devesh Gogia</h1>
 
 <h3 align="center">
 Computer Science Engineer | Data Analytics | AI & Machine Learning
