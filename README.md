@@ -31,7 +31,7 @@ B.Tech graduate in Computer Science and Engineering (AI & ML) with a CGPA of 9.6
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh%20Gogia-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devesh-gogia-47a655375/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devesh%20Gogia-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deveshgogia/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-deveshg2004-black?style=flat-square&logo=github)](https://github.com/deveshg2004)
 
