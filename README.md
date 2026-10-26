@@ -18,12 +18,6 @@ B.Tech graduate in Computer Science and Engineering (AI & ML) with a CGPA of 9.6
 - 💡 Building software applications and exploring innovative solutions to real-world problems.
 
 
----
-
-## 🏆 Achievements
-
-- 🏅 Course Topper – NPTEL Software Testing, IIT Kharagpur
-- 🥇 Topped the CSE (AIML) department with the Highest CGPA of 9.67/10 after 5 semesters
 
 
 ---
