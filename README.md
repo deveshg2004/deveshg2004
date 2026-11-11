@@ -30,6 +30,5 @@ B.Tech graduate in Computer Science and Engineering (CSE - AIML) with a CGPA of 
 
 [![GitHub](https://img.shields.io/badge/GitHub-deveshg2004-black?style=flat-square&logo=github)](https://github.com/deveshg2004)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-deveshgogia22-brightgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/deveshgogia22)
 
 
